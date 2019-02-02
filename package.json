@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "winston": "^3.2.1"
+  },
+  "name": "repo-lookup-nodejs",
+  "version": "1.0.0",
+  "description": "Lookup github users repos",
+  "main": "index.js",
+  "repository": "https://github.com/n/a",
+  "author": "George Maier",
+  "license": "n/a",
+  "private": null
+}
